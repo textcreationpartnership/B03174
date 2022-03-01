@@ -1,0 +1,704 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An excellent ballad of St. George for England, and the King of Egypt's daughter, whom he delivered from death, and how he slew a monstrous dragon, &amp;c. To the tune of, Flying fame, &amp;c. Licensed and entered according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03174</idno>
+            <idno type="STC">Wing E3793</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[128]</idno>
+            <idno type="EEBO-CITATION">99884217</idno>
+            <idno type="PROQUEST">ocm99884217</idno>
+            <idno type="VID">182988</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03174)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182988)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[70])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An excellent ballad of St. George for England, and the King of Egypt's daughter, whom he delivered from death, and how he slew a monstrous dragon, &amp;c. To the tune of, Flying fame, &amp;c. Licensed and entered according to order.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by and for Alex. Mil[bourne at] the Stationers Arms in  Green Arbor Court in the Little Old B[aily],</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Of Hectors deeds did Homer sing ..."</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Cut into 2 sheets for mounting.</note>
+                  <note>Imperfect: trimmed, affecting imprint.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="128" facs="tcp:182988:1" rendition="simple:additions"/>
+            <head>An excellent Ballad of St. GEORGE for <hi>England,</hi> and the King of <hi>Egypt</hi>'s Daughter, whom he delivered from Death, and how he ſlew a Monſtrous Dragon, <hi>&amp;c.</hi>
+            </head>
+            <opener>To the Tune of, <hi>Flying Fame,</hi> &amp;c.</opener>
+            <argument>
+               <p>Licenſed and Entered according to Order.</p>
+            </argument>
+            <p>
+               <figure>
+                  <figDesc>depiction of St. George slaying a dragon</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>OF <hi>Hectors</hi> Deeds did <hi>Homer</hi> ſing,</l>
+               <l>&amp; of the ſack of ſtately <hi>Troy,</hi>
+               </l>
+               <l>What grief fair <hi>Hellen</hi> did them bring,</l>
+               <l>which was Sir <hi>Paris only</hi> joy:</l>
+               <l>And with my pen I muſt recite</l>
+               <l>St. <hi>Georges</hi> Deeds an <hi>Engliſh</hi> Knight:</l>
+            </lg>
+            <lg>
+               <l>Againſt the Saraze<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s full rude</l>
+               <l>fought he full long &amp; many a Day,</l>
+               <l>Where many a Gyant he ſubdu'd,</l>
+               <l>in honour of the Chriſtian way;</l>
+               <l>And after many adventures paſt,</l>
+               <l>To <hi>Egypt</hi> Land he came at laſt.</l>
+            </lg>
+            <lg>
+               <l>And as the Story plain doth tell,</l>
+               <l>within that Country there did reſt,</l>
+               <l>A dreadful Dragon fierce and fell,</l>
+               <l>whereby they were full ſore oppreſt,</l>
+               <l>Who by his poiſoned breath each Day,</l>
+               <l>Did many of the City ſlay.</l>
+            </lg>
+            <lg>
+               <l>The Grief whereof did grow ſo great,</l>
+               <l>throughout the Limits of the Land,</l>
+               <l>That they their wiſemen did intreat,</l>
+               <l>to ſhew their cunning out of hand;</l>
+               <l>Which way they might this Dragon 'ſtroy,</l>
+               <l>That did their Country ſo annoy.</l>
+            </lg>
+            <lg>
+               <l>The wiſemen all before the King,</l>
+               <l>fram'd this Matter incontinent,</l>
+               <l>The Dragon none to death might bring,</l>
+               <l>by any means they could invent;</l>
+               <l>His skin more hard than braſs was found,</l>
+               <l>That ſword or ſpear could pierce or wound.</l>
+            </lg>
+            <lg>
+               <l>When this the people underſtood,</l>
+               <l>they cryed out moſt piteouſly,</l>
+               <l>The Dragons breath infected their blood,</l>
+               <l>that they each day in heaps did Dye;</l>
+               <l>Amongſt them ſuch a Plague it bred,</l>
+               <l>The Living ſcarce could bury the Dead.</l>
+            </lg>
+            <lg>
+               <l>No means there was that they could find,</l>
+               <l>for to appeaſe the Dragons rage,</l>
+               <l>But by a Virgin pure and kind,</l>
+               <l>whereby he might his fury ſwage;</l>
+               <l>Each Day he ſhould a Maiden eat,</l>
+               <l>For to allay his Hunger great,</l>
+            </lg>
+            <lg>
+               <l>This thing by art the VViſemen found,</l>
+               <l>which truly muſt obſerved be,</l>
+               <l>VVherefore throughout the City round,</l>
+               <l>a Virgin pure of good Degree,</l>
+               <l>VVas by the Kings Commiſſion ſtill,</l>
+               <l>Took up to ſerve the Dragons will.</l>
+            </lg>
+            <lg>
+               <l>Thus did the Dragon every Day</l>
+               <l>a Maiden of the town devour,</l>
+               <l>Till all the Maids were worn away,</l>
+               <l>and none were left that preſent hour,</l>
+               <l>Saving the kings fair Daughter bright,</l>
+               <l>Her Fathers joy and hearts Delight.</l>
+            </lg>
+            <lg>
+               <l>Then came the Officers to the king,</l>
+               <l>this Heavy Meſſage to declare,</l>
+               <l>VVhich did his heart with ſorrow ſting,</l>
+               <l>
+                  <hi>She is</hi> (quoth he) <hi>my Kingdoms Heir,</hi>
+               </l>
+               <l>
+                  <hi>O let us all be poiſoned here,</hi>
+               </l>
+               <l>
+                  <hi>E'er ſhe ſhould dye that is my dear.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then roſe the People preſently,</l>
+               <l>and to the king in rage they went,</l>
+               <l>VVho ſaid <hi>His Daughter dear ſhould dye,</hi>
+               </l>
+               <l>
+                  <hi>the Dragons fury to prevent;</hi>
+               </l>
+               <l>
+                  <hi>Our daughters all are dead,</hi> quoth they,</l>
+               <l>
+                  <hi>And have been made the Dragons prey.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>And by their blood thou haſt been bleſt,</hi>
+               </l>
+               <l>
+                  <hi>and thou haſt ſav'd their life thereby,</hi>
+               </l>
+               <l>
+                  <hi>And now in Juſtice it doth reſt,</hi>
+               </l>
+               <l>
+                  <hi>for us thy Daughter ſo ſhould dye.</hi>
+               </l>
+               <l>
+                  <hi>O ſave my Daughter,</hi> ſaid the king,</l>
+               <l>
+                  <hi>And let me feel the Dragons ſting.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="129" facs="tcp:182988:1" rendition="simple:additions"/>
+               <l>
+                  <hi>Then fell fair</hi> Sabrine <hi>on her knee,</hi>
+               </l>
+               <l>
+                  <hi>and to her Father then did ſay,</hi>
+               </l>
+               <l>
+                  <hi>O Father ſtrive not thus for me,</hi>
+               </l>
+               <l>
+                  <hi>but let me be the Dragons prey;</hi>
+               </l>
+               <l>
+                  <hi>It may be for my ſake alone,</hi>
+               </l>
+               <l>
+                  <hi>This Plague upon the land was ſhown.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Tis better <hi>I</hi> ſhould die</hi> (ſhe ſaid)</l>
+               <l>
+                  <hi>than all your ſubjects periſh quite,</hi>
+               </l>
+               <l>
+                  <hi>Perhaps the Dragon here was laid,</hi>
+               </l>
+               <l>
+                  <hi>for my offence to work this ſpight;</hi>
+               </l>
+               <l>
+                  <hi>And after he hath ſuckt my gore,</hi>
+               </l>
+               <l>
+                  <hi>Your Land ſhall know the grief no more.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>What haſt thou done (my Daughter dear)</hi>
+               </l>
+               <l>
+                  <hi>for to deſerve this heavy ſcourge?</hi>
+               </l>
+               <l>
+                  <hi>It is my fault it ſhall appear,</hi>
+               </l>
+               <l>
+                  <hi>which makes the Gods our ſtate to grudge;</hi>
+               </l>
+               <l>
+                  <hi>Then ought <hi>I</hi> dye to ſtint the ſtrife,</hi>
+               </l>
+               <l>
+                  <hi>And to preſerve thy happy life.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Like mad men all the people cry'd,</l>
+               <l>
+                  <hi>thy death to us can do no good,</hi>
+               </l>
+               <l>
+                  <hi>Our ſafety only doth abide</hi>
+               </l>
+               <l>
+                  <hi>to make thy Daughter Dragons food.</hi>
+               </l>
+               <l>
+                  <hi>Lo here I am, O then</hi> (quoth ſhe)</l>
+               <l>
+                  <hi>Therefore do what you will with me.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Nay ſtay dear daughter,</hi> (quoth the Queen)</l>
+               <l>
+                  <hi>and as thou art a Virgin bright,</hi>
+               </l>
+               <l>
+                  <hi>That hath for Vertue famous been,</hi>
+               </l>
+               <l>
+                  <hi>ſo let me cloath thee all in white,</hi>
+               </l>
+               <l>
+                  <hi>And crown thy head with flowers ſweet,</hi>
+               </l>
+               <l>
+                  <hi>An Ornament for Virgins meet</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And when ſhe was attired ſo,</l>
+               <l>according to her Mothers mind,</l>
+               <l>Vnto the ſtake then did ſhe go,</l>
+               <l>to which they did this virgin bind;</l>
+               <l>And being bound to ſtake and thrall,</l>
+               <l>She bid farewel unto them all:</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Farewel, dear Father, then</hi> (quoth ſhe)</l>
+               <l>
+                  <hi>and my ſweet Mother meek and mild,</hi>
+               </l>
+               <l>
+                  <hi>Take you no thought or care for me,</hi>
+               </l>
+               <l>
+                  <hi>for you may have another Child:</hi>
+               </l>
+               <l>
+                  <hi>Here for my Countries good Ile dye,</hi>
+               </l>
+               <l>
+                  <hi>Which I receive moſt willingly.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The King and Queen with all their train,</l>
+               <l>with weeping eyes then went their way,</l>
+               <l>And let their Daughter there remain,</l>
+               <l>to be the hungry Dragons prey:</l>
+               <l>But as ſhe there did weeping lie,</l>
+               <l>Behold St. <hi>George</hi> came riding by:</l>
+            </lg>
+            <lg>
+               <l>And ſeeing there a Lady bright,</l>
+               <l>faſt tied to the ſtake that day,</l>
+               <l>Moſt like unto a Valiant Knight,</l>
+               <l>ſtraight unto her did take his way:</l>
+               <l>
+                  <hi>Tell me ſweet Maiden,</hi> then quoth he,</l>
+               <l>
+                  <hi>Wh<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> perſon thus abuſed thee?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>And lo by Chriſt his blood I vow,</hi>
+               </l>
+               <l>
+                  <hi>which here is figured on my breaſt,</hi>
+               </l>
+               <l>
+                  <hi>I will revenge it on his brow,</hi>
+               </l>
+               <l>
+                  <hi>and break my Launce upon his creſt:</hi>
+               </l>
+               <l>And ſpeaking thus whereas he ſtood,</l>
+               <l>The Dragon iſſu'd out of the wood.</l>
+            </lg>
+            <lg>
+               <l>The Lady that did firſt eſpy</l>
+               <l>the Dreadful Dragon coming ſo,</l>
+               <l>Unt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> St. <hi>George</hi> aloud did cry,</l>
+               <l>and willed him away to go,</l>
+               <l>
+                  <hi>Here comes that ugly Fiend,</hi> quoth ſhe,</l>
+               <l>
+                  <hi>That ſoon will make an end of me,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>St. <hi>George</hi> then looking round about,</l>
+               <l>the fiery Dragon ſoon eſpy'd,</l>
+               <l>And like a knight of Courage ſtout,</l>
+               <l>againſt him he did fiercely ride:</l>
+               <l>And with ſuch blows he did him greet,</l>
+               <l>That he fell under his horſes feet.</l>
+            </lg>
+            <lg>
+               <l>For with a Launce that was ſo ſtrong,</l>
+               <l>as he came gaping in his face,</l>
+               <l>In at his mouth he thruſt it long,</l>
+               <l>the which could pierce no other place:</l>
+               <l>And there within this Ladys view,</l>
+               <l>This dreadful Dragon then he ſlew.</l>
+            </lg>
+            <lg>
+               <l>The ſavour of his poiſoned breath,</l>
+               <l>could do this Chriſtian knight no harm;</l>
+               <l>Thus he did ſave this Lady from Death,</l>
+               <l>and home he led her by the arm;</l>
+               <l>Which when <hi>Ptolomy did ſee,</hi>
+               </l>
+               <l>There was great Ioy and Melody.</l>
+            </lg>
+            <lg>
+               <l>When as this famous knight St. <hi>George,</hi>
+               </l>
+               <l>had ſlain the Dragon in the field,</l>
+               <l>And brought the Lady to the Court,</l>
+               <l>whoſe ſight with joy their hearts then fill'd</l>
+               <l>Ye in the <hi>Aegyptian</hi> Court then ſtaid,</l>
+               <l>Till he moſt falſly was betray'd.</l>
+            </lg>
+            <lg>
+               <l>The Lady <hi>Sabrine lov'd him well,</hi>
+               </l>
+               <l>he counted her his only Ioy,</l>
+               <l>But when their loves was open known</l>
+               <l>it prov'd St. <hi>Georges great annoy;</hi>
+               </l>
+               <l>The <hi>Morrocco King was then in Court,</hi>
+               </l>
+               <l>Who to the <hi>Orchard did</hi> reſort.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Daily to take the pleaſant air,</hi>
+               </l>
+               <l>
+                  <hi>for pleaſure ſake he uſed to walk</hi>
+               </l>
+               <l>
+                  <hi>Under the wall, whereas he heard</hi>
+               </l>
+               <l>
+                  <hi>St. <hi>George</hi> with fair <hi>Sarabrine</hi> talk;</hi>
+               </l>
+               <l>
+                  <hi>Their loves he revealed to the King,</hi>
+               </l>
+               <l>
+                  <hi>Which to St. <hi>George</hi> great woo did bring.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Theſe Kings together did deviſe</hi>
+               </l>
+               <l>
+                  <hi>to make this Chriſtian knight away,</hi>
+               </l>
+               <l>
+                  <hi>With Letters him Ambaſſador,</hi>
+               </l>
+               <l>
+                  <hi>they ſtraightway ſent to <hi>Perſia,</hi>
+                  </hi>
+               </l>
+               <l>
+                  <hi>And wrote to the <hi>Sophy</hi> him to kill,</hi>
+               </l>
+               <l>
+                  <hi>And treacherouſly his blood to ſpill.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thus they for good <hi>did</hi> him reward</l>
+               <l>with evil, <hi>and</hi> moſt ſubtilty,</l>
+               <l>By ſuch vile means they <hi>did</hi> Deviſe</l>
+               <l>to work his Death moſt cruelly;</l>
+               <l>While he in <hi>Perſia</hi> abode,</l>
+               <l>He ſtraight Deſtroy'd each <hi>idol-god.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>VVhich being <hi>done</hi> he ſtraight was ſlung</l>
+               <l>into a Dungeon <hi>dark and deep;</hi>
+               </l>
+               <l>But when he thought upon his wrong,</l>
+               <l>he bitterly began to weep;</l>
+               <l>Yet like a knight of Courage ſtout,</l>
+               <l>Forth of the Dungeon he got out.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>And in the night three Horſe-keepers</hi>
+               </l>
+               <l>
+                  <hi>this valiant Knight by power ſlew,</hi>
+               </l>
+               <l>
+                  <hi>Although he faſted many a day,</hi>
+               </l>
+               <l>
+                  <hi>and then away from thence he flew,</hi>
+               </l>
+               <l>
+                  <hi>On the beſt ſteed that <hi>Sophy</hi> had,</hi>
+               </l>
+               <l>
+                  <hi>VVhich when he knew he was full ſad.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Then into <hi>Chriſtendom</hi> he came,</hi>
+               </l>
+               <l>
+                  <hi>and met a Giant by the way,</hi>
+               </l>
+               <l>
+                  <hi>VVith him in Combat he did fight,</hi>
+               </l>
+               <l>
+                  <hi>moſt valiantly a Summers day;</hi>
+               </l>
+               <l>
+                  <hi>VVho yet for all his batts of ſteel,</hi>
+               </l>
+               <l>
+                  <hi>VVas forc'd the ſting of death to feel.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From <hi>Chriſtendom</hi> this valiant knight,</l>
+               <l>then with warlike Souldiers paſt,</l>
+               <l>Vowing upon that Heathen Land,</l>
+               <l>to work revenge, which at the laſt</l>
+               <l>E'er thrice three years was gone &amp; ſpent,</l>
+               <l>He did unto his great content.</l>
+            </lg>
+            <lg>
+               <l>Save only <hi>Aegypt</hi> land he ſpar'd,</l>
+               <l>for <hi>Sabrine</hi> bright her only ſake,</l>
+               <l>And e'er his rage he <hi>did</hi> ſuppreſs,</l>
+               <l>he meant a tryal kind to make:</l>
+               <l>
+                  <hi>Ptolomy did</hi> know his ſtrength in field,</l>
+               <l>And unto him did kindly yield.</l>
+            </lg>
+            <lg>
+               <l>Then he the <hi>Morrocco</hi> king <hi>did</hi> kill,</l>
+               <l>and took fair <hi>Sabrine</hi> to his wife,</l>
+               <l>
+                  <hi>And afterwards contentedly</hi>
+               </l>
+               <l>with her St. <hi>George did</hi> leed his life:</l>
+               <l>VVho by the vertue of a Chain,</l>
+               <l>Did ſtill a Virgin pure remain.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>To <hi>England</hi> then St <hi>George</hi> did bring,</hi>
+               </l>
+               <l>
+                  <hi>this Gallant Lady <hi>Sabrine</hi> bright,</hi>
+               </l>
+               <l>
+                  <hi>An Eunuch alſo came with him,</hi>
+               </l>
+               <l>
+                  <hi>in whom the Lady did delight:</hi>
+               </l>
+               <l>
+                  <hi>None but theſe three from <hi>Egypt</hi> came,</hi>
+               </l>
+               <l>
+                  <hi>Now let me Print St. <hi>Georges</hi> Fame:</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>VVhen they were in the Forreſt great,</hi>
+               </l>
+               <l>
+                  <hi>the Lady did deſire to reſt:</hi>
+               </l>
+               <l>
+                  <hi>And then St. <hi>George</hi> to kill a Deer</hi>
+               </l>
+               <l>
+                  <hi>to feed thereon did think it beſt,</hi>
+               </l>
+               <l>
+                  <hi>Left <hi>Sabrine</hi> and the Eunuch there,</hi>
+               </l>
+               <l>
+                  <hi>VVhile he did go and kill a Deer.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The mean time in his abſence came</l>
+               <l>two hungry Lyons fierce and fell,</l>
+               <l>And tore the Eunuch preſently</l>
+               <l>in pieces ſmall the truth to tell;</l>
+               <l>Down by the <hi>Lady</hi> then they <hi>laid,</hi>
+               </l>
+               <l>VVhereby it <hi>ſeem'd</hi> ſhe was a <hi>maid.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But when St. <hi>George</hi> from hunting came</l>
+               <l>
+                  <hi>and did behold</hi> this heavy chance,</l>
+               <l>Yet for this lovely virgin pure</l>
+               <l>his courage ſtout he <hi>did advance:</hi>
+               </l>
+               <l>
+                  <hi>And</hi> came within the Lions ſight,</l>
+               <l>vvho run at him with all their might.</l>
+            </lg>
+            <lg>
+               <l>But he being no whit <hi>diſmaid,</hi>
+               </l>
+               <l>
+                  <hi>but</hi> like a ſtout <hi>and</hi> valiant knight,</l>
+               <l>
+                  <hi>Did</hi> kill the hungry Lions both,</l>
+               <l>within the Lady <hi>Sabrines</hi> ſight;</l>
+               <l>But all this while <hi>ſad and demure</hi>
+               </l>
+               <l>She <hi>ſtood</hi> there like a virgin pure.</l>
+            </lg>
+            <lg>
+               <l>But when St. <hi>George did</hi> truly know,</l>
+               <l>his <hi>Lady</hi> was a virgin true,</l>
+               <l>Thoſe <hi>doleful thoughts</hi> that e'er was <hi>dumb</hi>
+               </l>
+               <l>began moſt firmly to renew:</l>
+               <l>He ſet her on a Palfrey ſteed,</l>
+               <l>
+                  <hi>And towards England came with ſpeed.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>vvhere he <hi>arrived</hi> in ſhort time</l>
+               <l>unto his Father's Dwelling-place,</l>
+               <l>vvhere with his Deareſt Love he lived,</l>
+               <l>when Fortune <hi>did</hi> their Nuptials grace,</l>
+               <l>They many years of Ioy <hi>did</hi> ſee,</l>
+               <l>And led their lives at <hi>Coventry.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by and for <hi>Alex. M<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Stationers Arms in G<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> Court in the <hi>Little Old <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
